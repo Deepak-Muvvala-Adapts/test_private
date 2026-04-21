@@ -1,0 +1,25 @@
+{
+  "path": "/generate-architectural-review",
+  "request_id": "e2e-local-arch-review",
+  "repo_full_name": "Deepak-Muvvala-Adapts/test_private",
+  "pr_number": "9",
+  "pr_title": "",
+  "pr_body": "",
+  "pr_url": "https://github.com/Deepak-Muvvala-Adapts/test_private/pull/9",
+  "author": "",
+  "base_branch": "main",
+  "head_branch": "",
+  "installation_id": "125529906",
+  "org_id": "",
+  "wiki_name": "Deepak-Muvvala-Adapts/test_private",
+  "repo_object": {
+    "repository_name": "Deepak-Muvvala-Adapts/test_private",
+    "pr_number": "9",
+    "pr_title": "",
+    "pr_body": "",
+    "pr_url": "https://github.com/Deepak-Muvvala-Adapts/test_private/pull/9",
+    "commit_author": "",
+    "branch": "main",
+    "installation_id": "125529906"
+  }
+}
