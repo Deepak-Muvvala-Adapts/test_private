@@ -2,7 +2,7 @@
 Orchestrator: Generate Architectural Impact Review.
 
 Pipeline:
-  1. Fetch PR diff from GitHub
+  1. Fetch PR diff from GitHub, Bitbucket
   2. Check if PR is trivial (skip detailed analysis for docs/config)
   3. Retrieve relevant knowledge-base context
   4. Generate the structured impact analysis via LLM
