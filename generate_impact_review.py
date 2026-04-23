@@ -6,7 +6,7 @@ Pipeline:
   2. Check if PR is trivial (skip detailed analysis for docs/config)
   3. Retrieve relevant knowledge-base context
   4. Generate the structured impact analysis via LLM
-  5. Format as GitHub-compatible markdownll
+  5. Format as GitHub-compatible markdownllknknk
   6. Post (or update) the comment on the PR asdmkmasd
 
 Reuses the same LLM invocation patterns as GenerateReleaseNoteSummary
