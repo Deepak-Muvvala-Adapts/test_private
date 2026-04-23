@@ -7,7 +7,7 @@ Pipeline:
   3. Retrieve relevant knowledge-base context
   4. Generate the structured impact analysis via LLM
   5. Format as GitHub-compatible markdown
-  6. Post (or update) the comment on the PR asd
+  6. Post (or update) the comment on the PR asdmkm
 
 Reuses the same LLM invocation patterns as GenerateReleaseNoteSummary
 (Prompt Service, Bedrock, OpenAI) and the same config.json / AppConfig.
