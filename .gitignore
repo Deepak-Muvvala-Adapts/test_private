@@ -3,7 +3,7 @@ __pycache__/
 *.py[codz]
 *$py.class
 
-#Test-PR (Impact Review)
+#Test-PR (Impact Reviews)
 # C extensions
 *.so
 #Test
