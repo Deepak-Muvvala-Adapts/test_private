@@ -1,4 +1,4 @@
-# Byte-compiled / optimized / DLL files
+# Byte-compiled / optimized / DLL files to check
 __pycache__/
 *.py[codz]
 *$py.class
