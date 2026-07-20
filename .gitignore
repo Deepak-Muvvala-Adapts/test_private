@@ -1,13 +1,14 @@
 # Test Comment - After Excluding
-# Byte-compiled / optimized / DLL files
+# Byte-compiled / optimized / DLL files to check
 __pycache__/
 *.py[codz]
 *$py.class
 
+#Test-PR (Impact Reviews)
 # C extensions
 *.so
-
-# Distribution / packaging
+#Test
+# Distribution / packaging files
 .Python
 build/
 develop-eggs/
