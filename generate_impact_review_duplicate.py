@@ -2,18 +2,18 @@
 Orchestrator: Generate Architectural Impact Review.
 
 Pipeline:
-  1. Fetch PR diff from GitHub
+  1. Fetch PR diff from GitHub, Bitbucket
   2. Check if PR is trivial (skip detailed analysis for docs/config)
   3. Retrieve relevant knowledge-base context
   4. Generate the structured impact analysis via LLM
-  5. Format as GitHub-compatible markdownllknknk
-  6. Post (or update) the comment on the PR asdmkmasd
+  5. Format as GitHub-compatible markdown
+  6. Post (or update) the comment on the PR
 
 Reuses the same LLM invocation patterns as GenerateReleaseNoteSummary
 (Prompt Service, Bedrock, OpenAI) and the same config.json / AppConfig.
 """
 from __future__ import annotations
-
+#Adding Test Commit - Prod
 import json
 import logging
 import os
